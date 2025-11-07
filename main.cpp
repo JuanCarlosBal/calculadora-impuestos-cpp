@@ -1,7 +1,6 @@
 /*
-* NickName:  NueveCinco
-* Actividad: p3
-* Tiempo:    00:40
+* Calculadora de impuestos. Requiere gastos y ganancias mensuales. Puede calcularlo anual.
+* Por Juan Carlos Barajas
 */
 
 #include <iostream>
